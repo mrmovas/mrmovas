@@ -4,7 +4,6 @@ I've been coding for 6 years, building and deploying scalable applications. I'm 
 ---
 
 ### You can also find me
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/mrmovas)
 [![Discord](https://img.shields.io/badge/Discord-@mrmovas-grey?logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/users/215878781779443712)
 
 ---
