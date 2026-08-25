@@ -1,5 +1,5 @@
 # Hi 👋, I'm Nick
-I've been coding for 6 years, building and deploying scalable applications. I'm 21 years old, I don't have all the answers, and I'm still learning, but I know how to find them and build something cool.
+I've been coding for 7 years, building and deploying scalable applications. I'm 22 years old, I don't have all the answers, and I'm still learning, but I know how to find them and build something cool.
 
 ---
 
